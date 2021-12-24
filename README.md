@@ -1,0 +1,1 @@
+# rfm-analizi-ile-m-teri-segmentasyonu
