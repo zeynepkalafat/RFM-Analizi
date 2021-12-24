@@ -1,1 +1,1 @@
-# rfm-analizi-ile-m-teri-segmentasyonu
+# rfm-analizi ile müşteri segmentasyonu
